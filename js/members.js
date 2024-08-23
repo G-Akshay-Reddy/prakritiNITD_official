@@ -268,7 +268,7 @@ const members2023List = [
 
 const members2024List = [
     {
-        name: "AKASH RAJ",
+        name: "AKASH RAJJ",
         img: "./pic/akash.jpg",
         post: "President"
     },
