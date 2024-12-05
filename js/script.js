@@ -98,3 +98,15 @@ sortByName(members2026List).map((data, index) => {
     </div>
 `
 });
+
+sortByName(members2027List).map((data, index) => {
+    members2027.innerHTML += `
+    <div class="rj-card rj-card-sm">
+        <img src="${data.img}">
+        <div class="rj-card-details">
+            <h3>${data.name}</h3>
+            <p>${data.post}</p>
+        </div>
+    </div>
+`
+});
