@@ -355,11 +355,11 @@ const members2025List = [
         img: "./img/2025/Akash2.jpg",
         post: "Tech Member"
     },
-    {
+    /*{
         name: "AMBAR",
         img: "./img/2025/Ambar.jpg",
         post: "Tech Member"
-    },
+    },*/
     {
         name: "ANISH KUMAR RAY",
         img: "./img/2025/Anish2.jpg",
@@ -401,11 +401,11 @@ const members2025List = [
         img: "./img/2025/Harshitha.jpeg",
         post: "Tech Member"
     },
-    {
+    /*{
         name: "MENKA AGRAWAL",
         img: "./img/2025/Menka.jpg",
         post: "Tech Member"
-    },
+    },*/
     {
         name: "MOHAMMAD HAMMAD ANSARI",
         img: "./img/2025/Mohammad2.jpg",
@@ -448,7 +448,7 @@ const members2025List = [
     },
     {
         name: "SATYAVARAPU NAMITHA",
-        img: "./img/2025/Satyavarapu.jpg",
+        img: "./img/2025/Namitha2.jpg",
         post: "Core Member"
     },
     // {
@@ -491,7 +491,7 @@ const members2026List = [
     },
     {
         name: "ANIRUDDHA MONDAL",
-        img: "./img/2026/Aniruddha.jpg",
+        img: "./img/2026/Aniruddha2.jpg",
         post: "Tech Member"
     },
     {
@@ -520,11 +520,11 @@ const members2026List = [
         img: "./img/2026/Chitra.jpg",
         post: "Core Member"
     },
-    {
+    /*{
         name: "DEVIYA PALIT",
         img: "./img/2026/Deviya.jpg",
         post: "Tech Member"
-    },
+    },*/
     {
         name: "DIVYA DANDASI",
         img: "./img/2026/Divya.jpg",
@@ -571,18 +571,13 @@ const members2026List = [
         post: "Tech Member"
     },
     {
-        name: "RAMVEER SINGH",
-        img: "./img/2026/Ramveer.jpg",
-        post: "Tech Member"
-    },
-    {
         name: "ROHIT MEENA",
         img: "./img/2026/Rohit.jpg",
         post: "Core Member"
     },
     {
         name: "RUPAM KUMAR",
-        img: "./img/2026/Rupam.jpg",
+        img: "./img/2026/Rupam2.jpg",
         post: "Tech Member"
     },
     {
@@ -674,11 +669,11 @@ const members2027List = [
         img:"./img/2027/Sirija.jpg",
         post:"Core Member"
     },
-    {
+    /*{
         name:"SRADDHA UPADHYAY",
         img:"./img/2027/Sraddha.jpg",
         post:"Core Member"
-    },
+    },*/
     {
         name:"SAMUDRIKA GHOSH",
         img:"./img/2027/Samudrika.jpg",
@@ -731,6 +726,66 @@ const postBearersList = [
             post: "General Secretary"
         },
         {
+            name: "HRIYA PRASAD",
+            img: "./img/2025/Hriya.jpg",
+            post: "Joint-Vice President"
+        },
+        {
+            name: "SATYAVARAPU NAMITHA",
+            img: "./img/2025/Namitha2.jpg",
+            post: "Joint-Vice President"
+        },
+        {
+            name: "RONAK BHATESHAR",
+            img: "./img/2025/Ronak.jpeg",
+            post: "Treasurer"
+        },
+        {
+            name: "MOHAMMAD HAMMAD ANSARI",
+            img: "./img/2025/Mohammad2.jpg",
+            post: "Convenor"
+        },
+        {
+            name: "GUNA",
+            img: "./img/2025/Pithani.jpg",
+            post: "Creative Head"
+        },
+        {
+            name: "HARSH RAJ SINGH",
+            img: "./img/2025/HARSH.jpg",
+            post: "Sponsorship Head RND Head"
+        },
+        {
+            name: "KINNERA HARSHITHA SANJIVINI",
+            img: "./img/2025/Harshitha.jpeg",
+            post: "Multimedia Head"
+        },
+        {
+            name: "YOGESH KUMAR",
+            img: "./img/2025/yogesh.jpg",
+            post: "Logistics Head"
+        },
+        {
+            name: "RISHI MARODIA",
+            img: "./img/2025/Rishi.jpg",
+            post: "Web-D Head"
+        },
+        {
+            name: "SATYAJIT PAUL",
+            img: "./img/2025/satyajit.jpg",
+            post: "GD Head"
+        },
+        {
+            name: "Abhishek Arya",
+            img: "./img/2025/Abhishek.jpg",
+            post: "Event Head"
+        },
+        {
+            name: "Kalyani Singh",
+            img: "./img/2025/Kalyani.jpg",
+            post: "Editor In Chief"
+        },
+        {
             name: "ANISH KUMAR RAY",
             img: "./img/2025/Anish2.jpg",
             post: "Operation Head"
@@ -751,46 +806,18 @@ const postBearersList = [
         //     img: "./img/2025/Bireshwar.jpeg",
         //     post: "Tech Member"
         // },
-        {
-            name: "GUNA",
-            img: "./img/2025/Pithani.jpg",
-            post: "Creative Head"
-        },
-        {
-            name: "HARSH RAJ SINGH",
-            img: "./img/2025/HARSH.jpg",
-            post: "Sponsorship Head RND Head"
-        },
-        {
-            name: "HRIYA PRASAD",
-            img: "./img/2025/Hriya.jpg",
-            post: "Joint-Vice President"
-        },
-        {
-            name: "KINNERA HARSHITHA SANJIVINI",
-            img: "./img/2025/Harshitha.jpeg",
-            post: "Multimedia Head"
-        },
-        {
-            name: "MOHAMMAD HAMMAD ANSARI",
-            img: "./img/2025/Mohammad2.jpg",
-            post: "Convenor"
-        },
+        
+        
+        
+        
+        
         // {
         //     name: "NIKHIL SINGH",
         //     img: "./img/2025/Nikhil.jpg",
         //     post: "Tech Member"
         // },
-        {
-            name: "RISHI MARODIA",
-            img: "./img/2025/Rishi.jpg",
-            post: "Web-D Head"
-        },
-        {
-            name: "RONAK BHATESHAR",
-            img: "./img/2025/Ronak.jpeg",
-            post: "Treasurer"
-        },
+        
+       
         // {
         //     name: "RUPANI KUMARI",
         //     img: "./img/2025/RUPANI.jpg",
@@ -801,46 +828,27 @@ const postBearersList = [
         //     img: "./img/2025/Shubhajyoti.jpg",
         //     post: "Tech Member"
         // },
-        {
-            name: "SASISEKHAR GOPIDESI",
-            img: "./img/2025/sasisekhar.jpg",
-            post: "Sr.Event Coordinator"
-        },
-        {
-            name: "SATYAJIT PAUL",
-            img: "./img/2025/satyajit.jpg",
-            post: "GD Head"
-        },
-        {
-            name: "SATYAVARAPU NAMITHA",
-            img: "./img/2025/Satyavarapu.jpg",
-            post: "Joint-Vice President"
-        },
+        
+        
+        
         // {
         //     name: "SHIBANGSHU PAL",
         //     img: "./img/2025/Shibangshu.jpg",
         //     post: "Core Member"
         // },
-        {
-            name: "YOGESH KUMAR",
-            img: "./img/2025/yogesh.jpg",
-            post: "Logistics Head"
-        },
-        {
-            name: "Kalyani Singh",
-            img: "./img/2025/Kalyani.jpg",
-            post: "Editor In Chief"
-        },
+        
+        
         {
             name: "SHAMBU KUMAR",
             img: "./img/2025/Shambhu.jpg",
             post: "Publicity Head"
         },
         {
-            name: "Abhishek Arya",
-            img: "./img/2025/Abhishek.jpg",
-            post: "Event Head"
-        }
+            name: "SASISEKHAR GOPIDESI",
+            img: "./img/2025/sasisekhar.jpg",
+            post: "Sr.Event Coordinator"
+        },
+        
     
 ]
 
