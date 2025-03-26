@@ -617,8 +617,8 @@ const members2027List = [
         post:"Core Member"
     },
     {
-        name:"MADHURENDRA KUMAR",
-        img:"./img/2027/Madhurendra.jpeg",
+        name:"Harshitha",
+        img:"./img/2027/harshitha.jpg",
         post:"Core Member"
     },
     {
@@ -627,8 +627,8 @@ const members2027List = [
         post:"Core Member"
     },
     {
-        name:"LOKESH PANDEY",
-        img:"./img/2027/Lokesh1.jpg",
+        name:"ALTHI GANESH",
+        img:"./img/2027/ganesh.jpg",
         post:"Core Member"
     },
     {
@@ -699,6 +699,16 @@ const members2027List = [
     {
         name:"NAYANIKA MONDAL",
         img:"./img/2027/Nayanika.jpg",
+        post:"Tech Member"
+    },
+    {
+        name:"NIKITA SHAW",
+        img:"./img/2027/nikita.jpg",
+        post:"Tech Member"
+    },
+    {
+        name:"ANIKET KESHARI",
+        img:"./img/2027/aniket.jpg",
         post:"Tech Member"
     },
     {
