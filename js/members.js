@@ -617,7 +617,7 @@ const members2027List = [
         post:"Core Member"
     },
     {
-        name:"Harshitha",
+        name:"CHAKINALA HARSHITHA",
         img:"./img/2027/harshitha.jpg",
         post:"Core Member"
     },
