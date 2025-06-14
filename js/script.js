@@ -1,9 +1,9 @@
 const postBearers = document.getElementById('postBearers');
 const alumni2021 = document.getElementById('alumni2021');
 const alumni2022 = document.getElementById('alumni2022');
-const alumni2023=document.getElementById('alumni2023')
+const alumni2023 = document.getElementById('alumni2023')
 const members2023 = document.getElementById('members2023');
-const members2024=document.getElementById('members2024')
+const members2024 = document.getElementById('members2024')
 const members2025 = document.getElementById('members2025')
 const members2026 = document.getElementById('members2026')
 
@@ -101,6 +101,18 @@ sortByName(members2026List).map((data, index) => {
 
 sortByName(members2027List).map((data, index) => {
     members2027.innerHTML += `
+    <div class="rj-card rj-card-sm">
+        <img src="${data.img}">
+        <div class="rj-card-details">
+            <h3>${data.name}</h3>
+            <p>${data.post}</p>
+        </div>
+    </div>
+`
+});
+
+sortByName(members2028List).map((data, index) => {
+    members2028.innerHTML += `
     <div class="rj-card rj-card-sm">
         <img src="${data.img}">
         <div class="rj-card-details">
