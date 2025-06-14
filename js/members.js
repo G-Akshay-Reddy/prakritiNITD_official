@@ -544,7 +544,7 @@ const members2026List = [
     },
     {
         name: "SALADI LOHITH KUMAR",
-        img: "./img/2026/Lohith.jpg",
+        img: "./img/2026/lohith2.jpg",
         post: "Tech Member"
     },
     {
@@ -569,7 +569,7 @@ const members2026List = [
     },
     {
         name: "ROHIT MEENA",
-        img: "./img/2026/Rohit.jpg",
+        img: "./img/2026/rohit2.jpg",
         post: "Core Member"
     },
     {
@@ -786,7 +786,7 @@ const postBearersList = [
     },
     {
         name: "ROHIT MEENA",
-        img: "./img/2026/Rohit.jpg",
+        img: "./img/2026/rohit2.jpg",
         post: "Treasurer"
     },
     {
@@ -796,7 +796,7 @@ const postBearersList = [
     },
     {
         name: "LOHITH S",
-        img: "./img/2026/Lohith.jpg",
+        img: "./img/2026/lohith2.jpg",
         post: "Creative Head"
     },
     {
