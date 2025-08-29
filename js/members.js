@@ -588,6 +588,11 @@ const members2026List = [
         post: "Core Member"
     },
     {
+        name: "SUJAL KUMAR",
+        img: "./img/2026/sujal.jpg",
+        post: "Operation Head"
+    },
+    {
         name: "GOGULA DHEERAJ",
         img: "./img/2026/dheeraj.jpg",
         post: "Multimedia Head"
