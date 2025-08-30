@@ -588,9 +588,14 @@ const members2026List = [
         post: "Core Member"
     },
     {
+        name: "SUJAL KUMAR",
+        img: "./img/2026/sujal.jpg",
+        post: "Core Member"
+    },
+    {
         name: "GOGULA DHEERAJ",
         img: "./img/2026/dheeraj.jpg",
-        post: "Multimedia Head"
+        post: "Tech Member"
     },
     {
         name: "PRANAY MUKHERJEE",
@@ -747,15 +752,15 @@ const members2028List = [
         img: "./img/2028/SAGAR.png",
         post: "GRAPHIC DESIGNING"
     },
-    {
+   /* {
         name: "PREM RAJ",
         img: "./img/2028/PREM.jpg",
         post: "EVENT MANAGEMENT"
-    },
+    },*/
     {
         name: "GAURAV KUSHWAHA",
         img: "./img/2028/GAURAV.jpg",
-        post: "EVENT MANAGEMENT"
+        post: "VIDEO EDITING"
     },
     {
         name: "G. AKSHAY REDDY",
